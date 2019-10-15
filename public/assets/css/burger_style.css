@@ -1,0 +1,18 @@
+
+
+body {
+  background-color:indianred;
+}
+
+img {
+  width: 15%;
+}
+
+.red_font {
+  color: black;
+}
+
+.tiny_text {
+  font-size: 11px;
+  color: #5da82f;
+}
